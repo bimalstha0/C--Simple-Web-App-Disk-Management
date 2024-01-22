@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApplicationDevelopmentCoursework.ActorDetailsForm">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhAAIAAAAAAAAAAAAAAAIAAAACAAAIAAhA=</HashCode>
+      <FileName>ActorDetailsForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.ActorDVD">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAAACAAAAAAAAACASAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ActorDVD.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.CastMemberDetailsForm">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIAAAAEEABAAAAAAAAAAAAAAAAgAAIAAAA=</HashCode>
+      <FileName>CastMemberDetailsForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVD">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hA4CAEAAQAgAEIQABYAAdBAQAiEAAIAAACKIAQIEAFA=</HashCode>
+      <FileName>DVD.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDCategory">
+    <Position X="2.5" Y="11.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAiAAAAAAAAAAAAIEAAAAQQAAASAAAAAgIAAAA=</HashCode>
+      <FileName>DVDCategory.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDCopiesDetailForm">
+    <Position X="4.25" Y="10.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AYIAAAAAAAAAgAACAEAAAAAACAQAAAAQAAAAAgIAAgA=</HashCode>
+      <FileName>DVDCopiesDetailForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDCopiesOnLoan">
+    <Position X="2.5" Y="4.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DVDCopiesOnLoan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDCopyLastLoan">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DVDCopyLastLoan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDList">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DVDList.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.DVDWithNoLoanInLast31Days">
+    <Position X="8" Y="10.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DVDWithNoLoanInLast31Days.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.Home">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Home.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.InactiveMember">
+    <Position X="2.5" Y="9.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>InactiveMember.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.LoanForm">
+    <Position X="6" Y="9.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BQAAkAAIAIBSAAACAAQAACAQAgQQEAAACAAAAAIEQAM=</HashCode>
+      <FileName>LoanForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.LoanTypesForm">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAABCAKAAAA=</HashCode>
+      <FileName>LoanTypesForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.Login">
+    <Position X="8" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAgAAAAAAgQAAAACAAgAAAAQgIAAAA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.MemberCategoryForm">
+    <Position X="6.25" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAACAAgAAAAAAAAAAAAABAIAEkA=</HashCode>
+      <FileName>MemberCategoryForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.MemberDetail">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>MemberDetail.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.MemberDetailForm">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAQAgBAgAAAAAAAEEAIAAAAACAAIAAgA=</HashCode>
+      <FileName>MemberDetailForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.MemberLoan">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>MemberLoan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.OldDvds">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>OldDvds.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.ProducerDetailForm">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAgAAAAAAAAAAAAARAAAAQAAAABgIQAgA=</HashCode>
+      <FileName>ProducerDetailForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.ReturnOfDVDCopy">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BIAQAAgAgAAQABAAgAAAAAAQAAAAAAIAAADAAAIAAAI=</HashCode>
+      <FileName>ReturnOfDVDCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.StudioDetailsForm">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAgAAAAAAAAAAABAQAAAAQAAAAIAIAQgA=</HashCode>
+      <FileName>StudioDetailsForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.User">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAAAAAIAgAggAAAAAAAAACAAAAAAAAgIAAAA=</HashCode>
+      <FileName>User.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.UserProfile">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIADAAAAAAAAIAQAAAAAACAIAQQAgAIgAAAAAQIAAAI=</HashCode>
+      <FileName>UserProfile.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCoursework.Common">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAACBAAAAAA=</HashCode>
+      <FileName>Common.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Web.UI.Page" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
